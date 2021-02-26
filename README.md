@@ -1,8 +1,7 @@
 # finishedPracticePrograms
 Repo for Programs i wrote to practice programming in various languages.
 
-Hogwarts.sql
-Here i excercised:
+with Hogwarts.sql i excercised:
 
     create a database
     creating tables,
