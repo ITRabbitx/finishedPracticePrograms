@@ -8,7 +8,7 @@ with Hogwarts.sql i excercised:
     making queries
     primary and secondary keys
     filling tables
-    datatypes
+    assigning datatypes
 
 
 
