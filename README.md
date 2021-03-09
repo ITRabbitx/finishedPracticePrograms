@@ -11,5 +11,13 @@ with Hogwarts.sql i excercised:
     assigning datatypes
 
 
+with MathTestingProg.py i excercised:
 
+    getting user input and putting it inside a variable
+    if statement
+    logical OR
+    using the random.randit() function
+    Checking if an input from a user is correct or incorrect
+    using floats
+    
 
