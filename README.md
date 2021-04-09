@@ -21,3 +21,9 @@ with MathTestingProg.py i excercised:
     using floats
     
 
+with dicegame.py i excercised:
+
+    Creating a function
+    Calling a function
+    If else statement
+    Equal to
