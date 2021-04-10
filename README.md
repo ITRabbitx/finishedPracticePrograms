@@ -23,7 +23,17 @@ with MathTestingProg.py i excercised:
 
 with dicegame.py i excercised:
 
-    Creating a function
+    Creating/defining a function
     Calling a function
     If else statement
     Equal to
+    
+with OOP_python.py i excercised:
+    
+    Defining classes
+    Definging functions
+    Calling functions from a class
+    Objects
+    Classes
+    
+    
