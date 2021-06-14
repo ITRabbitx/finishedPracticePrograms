@@ -1,6 +1,13 @@
 # finishedPracticePrograms
 Repo for Programs i wrote to practice programming in various languages.
 
+with main.cpp (Soda Machine Program i excercised: 
+    
+    getting user input and assining it to a variable
+    if / else if statements
+    concatenation
+    
+    
 with Hogwarts.sql i excercised:
 
     create a database
