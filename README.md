@@ -7,6 +7,7 @@ with main.cpp (Soda Machine Program) i excercised:
     if / else if statements
     concatenation
     
+Soda Machine excercise is from: https://www.cplusplus.com/forum/articles/12974/
     
 with Hogwarts.sql i excercised:
 
